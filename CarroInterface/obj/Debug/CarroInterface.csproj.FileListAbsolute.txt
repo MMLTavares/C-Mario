@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\CarroInterface\bin\Debug\CarroInterface.exe.config
+C:\Users\admin\source\repos\CarroInterface\bin\Debug\CarroInterface.exe
+C:\Users\admin\source\repos\CarroInterface\bin\Debug\CarroInterface.pdb
+C:\Users\admin\source\repos\CarroInterface\obj\Debug\CarroInterface.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CarroInterface\obj\Debug\CarroInterface.exe
+C:\Users\admin\source\repos\CarroInterface\obj\Debug\CarroInterface.pdb

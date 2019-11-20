@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarroInterface", "CarroInterface.csproj", "{5CF1E85C-2D29-4653-A2FC-BD2D1669DDBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF1E85C-2D29-4653-A2FC-BD2D1669DDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF1E85C-2D29-4653-A2FC-BD2D1669DDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF1E85C-2D29-4653-A2FC-BD2D1669DDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF1E85C-2D29-4653-A2FC-BD2D1669DDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE3D2AA-DC92-4DA5-AF3E-4168ACD09477}
+	EndGlobalSection
+EndGlobal
