@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\Mastermind\Mastermind\bin\Release\Mastermind.exe.config
+C:\Users\admin\source\repos\Mastermind\Mastermind\bin\Release\Mastermind.exe
+C:\Users\admin\source\repos\Mastermind\Mastermind\bin\Release\Mastermind.pdb
+C:\Users\admin\source\repos\Mastermind\Mastermind\obj\Release\Mastermind.exe
+C:\Users\admin\source\repos\Mastermind\Mastermind\obj\Release\Mastermind.pdb
